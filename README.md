@@ -1,3 +1,3 @@
 # surveyCTO-Plugins
 SurveyCTO field plug-ins allow form designers more flexibility to extend and customize the appearance and functionality of their forms. The following plugins will allow you to perform:
-- [Airtime & Data Recharges]
+- [Airtime & Data Recharges](https://github.com/ikapadata/surveyCTO-Plugins/tree/new-edits/Airtime%20distribution)
