@@ -24,7 +24,7 @@ This field plug-in is used in the `text` field type.
 
 ### Parameters
 #### Reloadly Recharges
-[Create a Reloadly account] and find your `reloadlyId` and `reloadlySecret` at [API settings.](https://www.reloadly.com/developers/api-settings)
+[Create a Reloadly account](https://www.reloadly.com/registration) and find your `reloadlyId` and `reloadlySecret` at [API settings.](https://www.reloadly.com/developers/api-settings)
 | Parameter key | Parameter value |
 | --- | --- |
 | `phone` | recipient's international mobile phone number|
