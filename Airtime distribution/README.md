@@ -2,7 +2,7 @@
 
 ## Description
 
-This field plug-in is designed to recharge mobile devices with airtime worldwide. With it's [Relodaly](https://reloadly.com) API integration you have borderless recharges of 5 billion devices covered by 630 mobile operator networks in over 150 countries
+This field plug-in is designed to recharge mobile devices with airtime and data worldwide. With it's [Relodaly](https://reloadly.com) API integration you have borderless recharges of 5 billion devices covered by 630 mobile operator networks in over 150 countries
 
 ### Features
 
