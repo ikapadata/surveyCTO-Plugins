@@ -11,7 +11,7 @@ This field plug-in is designed to recharge mobile devices with airtime and data 
 
 ### Data format
 
-This field plug-in requires the `text` field type..
+This field plug-in is used in the `text` field type.
 
 ## How to use
 
@@ -27,36 +27,24 @@ This field plug-in requires the `text` field type..
 
 | Parameter key | Parameter value |
 | --- | --- |
-| `phone` | international mobile phone number|
+| `phone` | recipient's international mobile phone number|
 | `network` | moblie network operator name|
 | `amount` | value of recharge|
+| `isoNmae` | Country ISO name of the receipient|
 | `category` | specify Airtime or Data recharge|
 | `reloadlyId` | reloadly API ID|
 | `reloadlySecret` | Reloadly Secret API Key|
 
 
 ### Example
-To display a percent symbol on the right of the textbox, the following would be placed in the appearance column of the spreadsheet form definition:
+To recharge a phone number in 
 
 `custom-format-symbol(symbol='%', placement='right')`
-
-### Default SurveyCTO feature support
-
-| Feature / Property | Support |
-| --- | --- |
-| Supported field type(s) | `decimal`|
-| Default values | Yes |
-| Constraint message | Uses default behavior |
-| Required message | Uses default behavior |
-| media:image | Yes |
-| media:audio | Yes |
-| media:video | Yes |
-| `show-formatted` appearance | No |
 
 ## More resources
 
 * **Sample form**   
-[Download sample form](https://github.com/surveycto/format-symbol/raw/master/extras/sample-form/Sample%20form%20-%20Format%20symbol%20field%20plug-in.xlsx)  
+[Download sample form]()  
 
 * **Developer documentation**  
 Instructions and resources for developing your own field plug-ins.  
