@@ -37,11 +37,11 @@ This field plug-in is used in the `text` field type.
 
 
 ### Example
-To recharge a South African phone number with airtime worth 100 ZAR:
+* To recharge a South African phone number with airtime worth 100 ZAR:
 
 ```custom-recharges(phone='27801234567',amount='100', network='Vodacom - South Africa', isonName='ZA', reloadlyId='INSERT_RELOADLY_ID', reloadlySecret='INSERT_RELOADLY_SECRET_KEY',category='Airtime')```
 
-To recharge a South African phone number with data worth 100MB:
+* To recharge a South African phone number with data worth 100MB:
 
 `custom-recharges(phone='27801234567',amount='100MB', network='Vodacom - South Africa', isonName='ZA', reloadlyId='INSERT_RELOADLY_ID', reloadlySecret='INSERT_RELOADLY_SECRET_KEY',category='Data')`
 
