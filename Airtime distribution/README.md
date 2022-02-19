@@ -2,7 +2,9 @@
 
 ## Description
 
-This field plug-in is designed to recharge mobile devices with airtime and data worldwide. With it's [Relodaly](https://reloadly.com) API integration you have borderless recharges of 5 billion devices covered by 630 mobile operator networks in over 150 countries
+This field plug-in is designed to recharge mobile devices with airtime and data worldwide. With it's [Relodaly](https://reloadly.com) API integration you have borderless recharges of 5 billion devices covered by 630 mobile operator networks in over 150 countries.
+
+_At ikapadata, this plug-in is used to recharge survey respondents during or at the end of surveys. It is a no code alternative to the [Airtable Airtime & Data](https://github.com/ikapadata/Airtable/tree/new-edits/Airtime%20%26%20Data%20Distribution) recharge solution. It is suitable for researchers without a database or knowledge of setting up backends._
 
 ### Features
 
