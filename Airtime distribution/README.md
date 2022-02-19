@@ -13,10 +13,6 @@ This field plug-in is designed to recharge mobile devices with airtime and data 
 
 This field plug-in requires the `text` field type..
 
-### Data format
-
-This field plug-in requires the `text` field type.
-
 ## How to use
 
 ### Getting started
