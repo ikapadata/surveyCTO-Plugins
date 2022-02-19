@@ -37,9 +37,9 @@ This field plug-in is used in the `text` field type.
 
 
 ### Example
-To recharge a phone number in 
+To recharge a South African phone number with airtime:
 
-`custom-format-symbol(symbol='%', placement='right')`
+`custom-recharges(phone='27801234567', network='Vodacom - South Africa', isonName='ZA', reloadlyId='INSERT_RELOADLY_ID', reloadlySecret='INSERT_RELOADLY_SECRET_KEY')`
 
 ## More resources
 
